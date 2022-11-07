@@ -17,4 +17,4 @@ flutter run
 ```
 
 ## Screenshot
-<img src="assets/Screenshot1.png" height="400em"/>&nbsp;<img src="assets/Screenshot2.png" height="400em" />
+<img src="assets/Screenshot1.png" height="400em"/>&nbsp;<img src="assets/Screenshot2.png" height="300em" />
